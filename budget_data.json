@@ -1,0 +1,20 @@
+{
+    "income": 2000.0,
+    "expenses": [
+        {
+            "amount": 1200.0,
+            "category": "Food",
+            "date": "2024-11-10 23:12:43.967601"
+        }
+    ],
+    "transactions": [
+        "Expense of 1200.0 for Food added."
+    ],
+    "recurring_expenses": [
+        {
+            "amount": 1200.0,
+            "category": "Food",
+            "date": "2024-11-10 23:12:43.967660"
+        }
+    ]
+}
